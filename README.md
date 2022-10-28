@@ -1,16 +1,6 @@
-# emotion
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 中科大软件学院 2022年 Python课程设计
+小组成员：
+SA22225430	许孙
+SA22225427	许昊
+SA22225491	张昱昊
+SA22225436	杨博理
